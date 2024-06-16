@@ -2,7 +2,7 @@ Developed a cutting-edge navigation system for the visually impaired, integratin
 <br/>
 <br/>
 
-Flyer: ![Group 61](https://github.com/RaghadAjamia/OptiGuide/assets/118125828/6ec44177-2c2a-41b2-8b35-15f579dc4101)
+Flyer: (https://github.com/RaghadAjamia/OptiGuide/assets/118125828/6ec44177-2c2a-41b2-8b35-15f579dc4101)
 <br/>
 
 Website: https://www.optiguide.co/
